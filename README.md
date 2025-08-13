@@ -3,4 +3,7 @@
     - Answer: git clone https://github.com/quakced/Digital-History-Notebook.git
 - 1.2: What was your first commit message to push this file to GitHub?
     - Answer: "Pushing questions"
-
+### Ada-Lovelace
+- https://github.com/quakced/Digital-History-Notebook/blob/main/ada-lovelace.md
+### Alan-Turing
+- https://github.com/quakced/Digital-History-Notebook/blob/main/alan-turing.md
