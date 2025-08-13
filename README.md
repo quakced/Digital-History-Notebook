@@ -7,3 +7,8 @@
 - https://github.com/quakced/Digital-History-Notebook/blob/main/ada-lovelace.md
 ### Alan-Turing
 - https://github.com/quakced/Digital-History-Notebook/blob/main/alan-turing.md
+
+- 2.1: What two file names did you create?
+    - Answer: ada-lovelace.md and alan-turing.md
+- 2.2: What was your commit message?
+    - Answer: "Added pioneers Ada and Alan"
