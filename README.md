@@ -13,10 +13,13 @@
 - 2.2: What was your commit message?
     - Answer: "Added pioneers Ada and Alan"
 ## Timeline: The Rise of the Internet
-- ![ENIAC (1945)] (img/ENIAC.webp) 
+- !ENIAC (1945)
 - AI (1956)
 - ARPANET (1967)
 - TCP/IP (1974)
 - Personal Computers (1977)
 - GUI (1981)
 - WWW (1989)
+
+- 3.1: What command did you use to retrieve the new information from GitHub?
+    - Answer: git pull
