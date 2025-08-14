@@ -13,7 +13,7 @@
 - 2.2: What was your commit message?
     - Answer: "Added pioneers Ada and Alan"
 ## Timeline: The Rise of the Internet
-- ENIAC (1945)
+- ![ENIAC (1945)] (img/ENIAC.webp) 
 - AI (1956)
 - ARPANET (1967)
 - TCP/IP (1974)
