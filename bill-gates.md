@@ -1,6 +1,6 @@
 # Bill Gates
-
-
+Bill Gates was one of the founders of Microsoft Corporation, which turned into the largest computer software company in the world. Bill Gates was considered "The Man Who Put A Computer in Every Home". William Henry Gates III was born on October 28, 1955, in Seattle, Washington. Bill Gates had a father, William Gates Senior, who was a promienent lawyer, and to his mother,Mary Maxwell Gates, a school teacher. In Gates's early years he grew up in an upper-middle-class family and went to a private school that is now famous Lakeside School, where he found his keen interests in reading and mathematics. At 13 Gates first encountered computers. There school had a teletype terminal that connected to a General Electric computer. Him and some of his friends became intreseted in this new technology. Gates's early buisness ventures began with Traf-O-Data, a company he started with his Microsoft co-founder Paul Allen and another friend. He enrolled in Harvard after his high SAT score. While at Harvard Gates's and Paul developed software for the first microcomputers. In 1981 IBM included Microsoft software in its new PC. In 1985 Microsoft offered its first version of Windows and in the 1990s Microsoft began focusing on software related to the Internt. Finally in 2008 Gates retired from running Microsoft to work more with his foundation.
 
 ### Sources
-- 
+- britannica.com
+- quartr.com

@@ -28,4 +28,6 @@
 - WWW (1989)
 - ![WWW](https://github.com/user-attachments/assets/e9302299-5a55-4069-a8cc-37da860b73b3)
 
+- 3.1: What command did you use to retrieve the new information from GitHub?
+    - Answer: git fetch and git pull
 
