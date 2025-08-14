@@ -12,6 +12,7 @@
     - Answer: ada-lovelace.md and alan-turing.md
 - 2.2: What was your commit message?
     - Answer: "Added pioneers Ada and Alan"
+<<<<<<< HEAD
 ## Timeline: The Rise of the Internet
 - !ENIAC (1945)
 - AI (1956)
@@ -23,3 +24,6 @@
 
 - 3.1: What command did you use to retrieve the new information from GitHub?
     - Answer: git pull
+=======
+
+>>>>>>> 0319f2fedbbc21d73386b6df53e46cbe928e7e06
