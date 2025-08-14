@@ -13,10 +13,12 @@
 - 2.2: What was your commit message?
     - Answer: "Added pioneers Ada and Alan"
 ## Timeline: The Rise of the Internet
-- ![ENIAC (1945)] (img/ENIAC.webp) 
-- AI (1956)
-- ARPANET (1967)
-- TCP/IP (1974)
-- Personal Computers (1977)
-- GUI (1981)
-- WWW (1989)
+- ENIAC (1945)<img width="1440" height="792" alt="ENIAC" src="https://github.com/user-attachments/assets/7e56de75-6ff7-43a8-b559-9c089993fc31" />
+- AI (1956)![AI](https://github.com/user-attachments/assets/154127c8-ea29-4ca4-979e-9d7ca6714f78)
+- ARPANET (1967)<img width="1000" height="716" alt="Arpanet" src="https://github.com/user-attachments/assets/ffc04bd5-cf62-4cd0-a5ad-3d7bdd02609f" />
+- TCP/IP (1974)![TCPIP](https://github.com/user-attachments/assets/c839d4ab-9081-4bd8-a20c-178d90257386)
+- Personal Computers (1977)![PC](https://github.com/user-attachments/assets/193fb74f-7c1a-400e-a76c-1b939556af21)
+- GUI (1981)![GUI](https://github.com/user-attachments/assets/1dda8d0d-ec1c-4b96-a287-8d8932343909)
+- WWW (1989)![WWW](https://github.com/user-attachments/assets/e9302299-5a55-4069-a8cc-37da860b73b3)
+
+
