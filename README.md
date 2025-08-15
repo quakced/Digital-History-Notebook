@@ -31,3 +31,19 @@
 - 3.1: What command did you use to retrieve the new information from GitHub?
     - Answer: git fetch and git pull
 
+## Bill Gates
+https://github.com/quakced/Digital-History-Notebook/blob/main/bill-gates.md
+## Steve Jobs
+https://github.com/quakced/Digital-History-Notebook/blob/main/steve-jobs.md
+
+- 4.1: What command did you use to save your changes to your local notebook?
+    - Answer: CTRL S
+- 4.2: What command did you use to publish your changes to the remote repository?
+    - Answer: git push
+
+- 5.1: What did git status tell you after you ran git fetch?
+    - Answer: modified:     README.md
+- 5.2: What command did you use to merge your peer's changes into your local notebook?
+    - Answer:git pull
+
+
