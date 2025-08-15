@@ -46,4 +46,11 @@ https://github.com/quakced/Digital-History-Notebook/blob/main/steve-jobs.md
 - 5.2: What command did you use to merge your peer's changes into your local notebook?
     - Answer:git pull
 
+## Time Berners-Lee
+https://github.com/quakced/Digital-History-Notebook/blob/main/tim-berners-lee.md
+
+6.1: What was your commit message for this assignment?
+Answer: Added Tim Berners-Lee
+6.2: What command did you use to publish your work?
+Answer: git push
 
