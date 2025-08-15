@@ -49,8 +49,10 @@ https://github.com/quakced/Digital-History-Notebook/blob/main/steve-jobs.md
 ## Time Berners-Lee
 https://github.com/quakced/Digital-History-Notebook/blob/main/tim-berners-lee.md
 
-6.1: What was your commit message for this assignment?
-Answer: Added Tim Berners-Lee
-6.2: What command did you use to publish your work?
-Answer: git push
+- 6.1: What was your commit message for this assignment?
+    - Answer: Added Tim Berners-Lee
+- 6.2: What command did you use to publish your work?
+    - Answer: git push
 
+### Final Thoughts
+In this project I learned who invented many of what I use in everyday life that I never thought, hey someone needs to invent that for me to use it. This assignment was very informative and I enjoyed learning some bits about all these famous people who revolutionized the tech world.
