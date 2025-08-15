@@ -4,3 +4,6 @@ Steve Jobs was a pioneer in user interface and consumer technology. With the int
 ### Sources
 - Britannica.com
 - Roomnet.com
+
+### Peer review
+- 'Could you add more details about the first Macintosh computer'
