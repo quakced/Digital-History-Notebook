@@ -60,4 +60,5 @@ https://github.com/quakced/Digital-History-Notebook/blob/main/tim-berners-lee.md
 ### Final Thoughts
 In this project I learned who invented many of what I use in everyday life that I never thought, hey someone needs to invent that for me to use it. This assignment was very informative and I enjoyed learning some bits about all these famous people who revolutionized the tech world.
 
-
+- What command(s) did you use to undo the commit, and why did you chooose that particular method?
+    - Answer: git rebase -i [hash]~ replace the hash with the log commit numbers and letters to access the message in vim and deleted it. I choose this method because it was the only one that worked when I tried it.
